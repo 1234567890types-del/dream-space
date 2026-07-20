@@ -1,0 +1,6 @@
+{
+  "name": "Dream Space",
+  "description": "A peaceful virtual personal world where you own a magical room floating in the universe. Relax, customize, chat with an AI companion, and adopt magical pets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
